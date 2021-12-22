@@ -1,5 +1,5 @@
 # SOTT-KE-Key-Display
-Swat's over the top krunker editor key display, allows you to display input keys in the editor. mostly useful for tutorials and what not.
+Swat's over the top krunker editor key display, allows you to display input keys in the editor. mostly useful for tutorials and what not. Made originally for Solar13
 
 ![Example video](https://youtu.be/PxemlR7tDOI)
 
