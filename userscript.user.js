@@ -1,6 +1,11 @@
 // ==UserScript==
 // @name         SOTT KE Key display
 // @version      0.1
+// @homepage     https://docs.swatdo.ge
+// @icon         https://swatdo.ge/images/dq_logo.png
+// @updateURL    https://github.com/SwatDoge/SOTT-KE-Key-display/raw/master/userscript.user.js
+// @downloadURL  https://github.com/SwatDoge/SOTT-KE-Key-display/raw/master/userscript.user.js
+// @supportURL   https://discord.gg/bz8abvq
 // @description  Displays the keys your pressing in the krunkscript editor!
 // @author       Swat
 // @match        *://krunker.io/editor.html
