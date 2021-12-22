@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SOTT KE Key display
+// @name         SOTT KE Key display (Release)
 // @version      0.1
 // @homepage     https://docs.swatdo.ge
 // @icon         https://swatdo.ge/images/dq_logo.png
