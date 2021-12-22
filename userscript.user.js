@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SOTT KE Key display (Release)
 // @version      0.1
-// @homepage     https://docs.swatdo.ge
+// @homepage     https://docs.swatdo.ge/tools/sott_kekd/
 // @icon         https://swatdo.ge/images/dq_logo.png
 // @updateURL    https://github.com/SwatDoge/SOTT-KE-Key-display/raw/master/userscript.user.js
 // @downloadURL  https://github.com/SwatDoge/SOTT-KE-Key-display/raw/master/userscript.user.js
